@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>496</string>
+	<string>89</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -29,11 +29,11 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-04-25T19:20:48Z</date>
+	<date>2015-04-25T19:22:37Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>5</integer>
+		<integer>4</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
@@ -175,7 +175,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>106</real>
 		<key>mainWindowFrame</key>
-		<string>-9 59 1082 719 0 0 1280 778 </string>
+		<string>26 59 1082 719 0 0 1280 778 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -213,7 +213,7 @@
 	<key>mobileStatusBarStyle</key>
 	<integer>0</integer>
 	<key>oidCounter</key>
-	<integer>537</integer>
+	<integer>629</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -788,7 +788,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>480</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{193, 300}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -829,7 +829,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>485</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 72}</string>
+					<string>{0, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -922,7 +922,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>15</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{86, 0}</string>
 					<key>userGuides</key>
 					<array>
 						<dict>
@@ -999,7 +999,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1268, 1437}</string>
+					<string>{1260, 1306}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1024,7 +1024,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>93</string>
 					<key>scrollViewOffset</key>
-					<string>{6, 69}</string>
+					<string>{72, 69}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1117,7 +1117,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>100</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0.5078125}</string>
+					<string>{0, 1}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1252,7 +1252,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>497</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{193, 330}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -1879,7 +1879,7 @@
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>455</string>
+				<string>609</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -3021,6 +3021,75 @@
 							<string>none</string>
 						</dict>
 					</array>
+					<key>609</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>10</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 					<key>7</key>
 					<array>
 						<dict>
@@ -4035,7 +4104,7 @@
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>212</string>
+				<string>605</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -5118,6 +5187,75 @@
 							<string>#000000</string>
 						</dict>
 					</array>
+					<key>605</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>30</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -5427,7 +5565,7 @@
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>456</string>
+				<string>610</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -5569,6 +5707,75 @@
 							<string>Width</string>
 							<key>objectValue</key>
 							<string>1069px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
+					<key>610</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>10</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5751,7 +5958,7 @@
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>235</string>
+				<string>611</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -6515,6 +6722,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>div</string>
 						</dict>
 					</array>
+					<key>611</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>8</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>861px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1020px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -6620,7 +6896,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>458</string>
+				<string>612</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -6762,6 +7038,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>Width</string>
 							<key>objectValue</key>
 							<string>1069px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
+					<key>612</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>10</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6944,7 +7289,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>537</string>
+				<string>613</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -7487,6 +7832,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>#000000</string>
 						</dict>
 					</array>
+					<key>613</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>13</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -7592,7 +8006,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>462</string>
+				<string>618</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -7811,6 +8225,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>div</string>
 						</dict>
 					</array>
+					<key>618</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>10</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -7916,7 +8399,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>463</string>
+				<string>619</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -8066,6 +8549,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>div</string>
 						</dict>
 					</array>
+					<key>619</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -8171,7 +8723,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>464</string>
+				<string>620</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -8390,6 +8942,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>div</string>
 						</dict>
 					</array>
+					<key>620</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>10</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -8495,7 +9116,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>366</string>
+				<string>621</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -9197,6 +9818,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>div</string>
 						</dict>
 					</array>
+					<key>621</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>14</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -9302,7 +9992,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>472</string>
+				<string>626</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -9521,6 +10211,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>div</string>
 						</dict>
 					</array>
+					<key>626</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>10</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -9626,7 +10385,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>231</string>
+				<string>627</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -10056,6 +10815,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>TextColor</string>
 							<key>objectValue</key>
 							<string>#000000</string>
+						</dict>
+					</array>
+					<key>627</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>7</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -12335,7 +13163,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>466</string>
+				<string>622</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -12554,6 +13382,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>div</string>
 						</dict>
 					</array>
+					<key>622</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>10</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -12659,7 +13556,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>467</string>
+				<string>623</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -12944,6 +13841,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>div</string>
 						</dict>
 					</array>
+					<key>623</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>11</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -13049,7 +14015,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>470</string>
+				<string>624</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -13268,6 +14234,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>div</string>
 						</dict>
 					</array>
+					<key>624</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>10</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -13372,7 +14407,9 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<key>documentIdentifier</key>
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>625</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -13513,6 +14550,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>Width</string>
 							<key>objectValue</key>
 							<string>1069px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
+					<key>625</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>10</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14445,7 +15551,9 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<key>documentIdentifier</key>
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>607</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -14663,6 +15771,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>div</string>
 						</dict>
 					</array>
+					<key>607</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>10</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -14712,7 +15889,9 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<key>documentIdentifier</key>
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>608</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -15138,15 +16317,15 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
-							<key>objectValue</key>
-							<string>#3D74D1</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>BoxShadowXOffset</string>
 							<key>objectValue</key>
 							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FilterEffectSaturate</string>
+							<key>objectValue</key>
+							<string>0.629846</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15156,9 +16335,9 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>FilterEffectSaturate</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>0.629846</string>
+							<string>#3D74D1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15198,15 +16377,15 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>FilterEffectBrightness</string>
-							<key>objectValue</key>
-							<string>1.292722</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>FilterEffectContrast</string>
 							<key>objectValue</key>
 							<string>0.933643</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FilterEffectBrightness</string>
+							<key>objectValue</key>
+							<string>1.292722</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15246,15 +16425,15 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextAlign</string>
+							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
-							<string>center</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>TextAlign</string>
 							<key>objectValue</key>
-							<string>6px</string>
+							<string>center</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15264,9 +16443,15 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>12</string>
+							<string>6px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FilterEffectBlur</string>
+							<key>objectValue</key>
+							<string>0.000000</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15282,15 +16467,9 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ExplicitDimensions</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>FilterEffectBlur</string>
-							<key>objectValue</key>
-							<string>0.000000</string>
+							<string>12</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15427,6 +16606,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>30px</string>
 						</dict>
 					</array>
+					<key>608</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>13</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -15476,7 +16724,9 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<key>documentIdentifier</key>
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>616</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -15694,6 +16944,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>div</string>
 						</dict>
 					</array>
+					<key>616</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>10</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -15744,7 +17063,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>504</string>
+				<string>617</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -16166,6 +17485,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>#000000</string>
 						</dict>
 					</array>
+					<key>617</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>12</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -16214,6 +17602,10 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 		<dict>
 			<key>documentIdentifier</key>
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
+			<key>selectedObjects</key>
+			<array>
+				<string>614</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -16431,6 +17823,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>div</string>
 						</dict>
 					</array>
+					<key>614</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>10</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -16536,7 +17997,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>522</string>
+				<string>615</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -16764,7 +18225,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>924px</string>
+							<string>495px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16776,7 +18237,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;div&gt;&lt;b&gt;What do you actually do?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Supervise weekly savings circles that allow women lacking access to formal banking to save and borrow money with people they trus ­Our weekly workshops focus on business growth, marketing, savings for legal documentation, healthcare and education&lt;/div&gt;&lt;div&gt;- Assist business owners to secure proper documentation and pay business taxes to the council of the town of Jimaní&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;- Provide small loans from $50­-500 for capable entrepreneurs who wish to build their business or create new ones&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;Who have you worked with and who are your partners?&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;Banco ADOPEM&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;In conjunction with ADOPEM’s &amp;nbsp;"community banking”&amp;nbsp;product, we are assisting undocumented migrants a formal way to save, borrow and have access to workshops in the areas of financial literacy, entrepreneurship, health and education.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;Civil Innovation Lab&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;What are the problems that you face at the border?&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Since a majority of local organizations provide traditional refugee services that fail to foster economic independence and self­ sustainability, many refugees become dependent on relief organizations. Our approach is to engage leaders and local stakeholders to become part of the social­innovation processes. Our approach is build an inclusive, bottoms­up strategy with local knowledge and talented mentors that will drive entrepreneurship and innovation at the border.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;What are your thoughts for the future?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hands­on methodology that engages women through local workshops, cultural events and group activities promoting idea sharing and alternative ways of thinking&lt;/div&gt;&lt;div&gt;Organizing hackathons, entrepreneurial challenges and innovation camps&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Using Internet and social media to create international and national campaigns of awareness and connect with global initiatives&lt;/div&gt;&lt;div&gt;Using digital platforms that present innovative tools and services available to move forward: Crowdfunding, marketplaces and B2B platforms.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Why are you working wtih undocumented persons?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Legal status is a powerful element that provide individuals with the ability to travel safely and earn more money, thereby lowering rates of poverty. Unlike the United States, the DR does not grant citizenship to children who are born to undocumented parents. Currently hundreds of thousands of individuals of Haitian descent are denied access to affordable health services, basic legal protections and the right to vote. In Jimaní all children are allowed to attend primary school however once they reach middle school, they are required to provide proper documentation. If documentation is not available their education ends. Our program helps families whose children are dependent on documentation to attend school.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We are serving 95 women and 130 of their dependents and believe that our model provides families a trusted place to save for this documentation. We have the potential of assisting 1,000 families to become integrated, visible and active members of Dominican society.&amp;nbsp;&lt;/div&gt;</string>
+							<string>&lt;div&gt;What do you actually do?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Supervise weekly savings circles that allow women lacking access to formal banking to save and borrow money with people they trus ­Our weekly workshops focus on business growth, marketing, savings for legal documentation, healthcare and education&lt;/div&gt;&lt;div&gt;- Assist business owners to secure proper documentation and pay business taxes to the council of the town of Jimaní&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;- Provide small loans from $50­-500 for capable entrepreneurs who wish to build their business or create new ones&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;Who are your partners?&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;In conjunction with Banco ADOPEM's &amp;nbsp;"community banking”&amp;nbsp;product, we are assisting undocumented migrants a formal way to save, borrow and have access to workshops in the areas of financial literacy, entrepreneurship, health and education.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Since a majority of local organizations provide traditional refugee services that fail to foster economic independence and self­ sustainability, many refugees become dependent on relief organizations. Our approach is to engage leaders and local stakeholders to become part of the social­innovation processes. Our approach is build an inclusive, bottoms­up strategy with local knowledge and talented mentors that will drive entrepreneurship and innovation at the border.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hands­on methodology that engages women through local workshops, cultural events and group activities promoting idea sharing and alternative ways of thinking&lt;/div&gt;&lt;div&gt;Organizing hackathons, entrepreneurial challenges and innovation camps&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Using Internet and social media to create international and national campaigns of awareness and connect with global initiatives&lt;/div&gt;&lt;div&gt;Using digital platforms that present innovative tools and services available to move forward: Crowdfunding, marketplaces and B2B platforms.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Legal status is a powerful element that provide individuals with the ability to travel safely and earn more money, thereby lowering rates of poverty. Unlike the United States, the DR does not grant citizenship to children who are born to undocumented parents. Currently hundreds of thousands of individuals of Haitian descent are denied access to affordable health services, basic legal protections and the right to vote. In Jimaní all children are allowed to attend primary school however once they reach middle school, they are required to provide proper documentation. If documentation is not available their education ends. Our program helps families whose children are dependent on documentation to attend school.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We are serving 95 women and 130 of their dependents and believe that our model provides families a trusted place to save for this documentation. We have the potential of assisting 1,000 families to become integrated, visible and active members of Dominican society.&amp;nbsp;&lt;/div&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16819,6 +18280,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>TextColor</string>
 							<key>objectValue</key>
 							<string>#000000</string>
+						</dict>
+					</array>
+					<key>615</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>6</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -16925,7 +18455,9 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<key>documentIdentifier</key>
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>628</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -17143,6 +18675,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>div</string>
 						</dict>
 					</array>
+					<key>628</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>10</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -17193,7 +18794,7 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>531</string>
+				<string>629</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -17478,6 +19079,75 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 							<string>#000000</string>
 						</dict>
 					</array>
+					<key>629</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>604</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>11</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>unnamed instance</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>835px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1031px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>164px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -17502,6 +19172,315 @@ work in the Dominican Republic.&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;
 				<true/>
 				<key>showInResourceLibrary</key>
 				<false/>
+				<key>timelines</key>
+				<array>
+					<dict>
+						<key>animations</key>
+						<array/>
+						<key>firstKeyframeIsRelative</key>
+						<false/>
+						<key>framesPerSecond</key>
+						<integer>30</integer>
+						<key>hidden</key>
+						<false/>
+						<key>identifier</key>
+						<string>kTimelineDefaultIdentifier</string>
+						<key>name</key>
+						<string>Main Timeline</string>
+						<key>userDefinedDuration</key>
+						<real>0.0</real>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>documentIdentifier</key>
+			<string>DC9CEB8B-A6A8-425C-95CF-0143001C1FB8-609-0000013F04EB5A3E</string>
+			<key>selectedObjects</key>
+			<array>
+				<string>606</string>
+			</array>
+			<key>symbol</key>
+			<dict>
+				<key>addToNewSceneControllers</key>
+				<true/>
+				<key>currentTimelineIdentifier</key>
+				<string>kTimelineDefaultIdentifier</string>
+				<key>customBehaviors</key>
+				<array/>
+				<key>elements</key>
+				<dict>
+					<key>606</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleRight</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleTop</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ShowButtonEditor</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WordWrap</string>
+							<key>objectValue</key>
+							<string>break-word</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthBottom</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundColor</string>
+							<key>objectValue</key>
+							<string>#F0F0F0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthRight</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthTop</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleLeft</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FontSize</string>
+							<key>objectValue</key>
+							<string>36px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>Button</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextColor</string>
+							<key>objectValue</key>
+							<string>#000000</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>InnerHTML</string>
+							<key>objectValue</key>
+							<string>Home</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>57px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorTop</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextAlign</string>
+							<key>objectValue</key>
+							<string>center</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>6px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>UserSelect</string>
+							<key>objectValue</key>
+							<string>none</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WhiteSpaceCollapsing</string>
+							<key>objectValue</key>
+							<string>preserve</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>29</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>6px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleBottom</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingBottom</string>
+							<key>objectValue</key>
+							<string>6px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingRight</string>
+							<key>objectValue</key>
+							<string>6px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorLeft</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>150px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Button</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorRight</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthLeft</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Cursor</string>
+							<key>objectValue</key>
+							<string>pointer</string>
+						</dict>
+					</array>
+				</dict>
+				<key>isPersistentSymbol</key>
+				<true/>
+				<key>name</key>
+				<string>Symbol 4</string>
+				<key>oid</key>
+				<string>604</string>
+				<key>onSceneLoadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array>
+						<dict>
+							<key>playInReverse</key>
+							<false/>
+							<key>timelineIdentifier</key>
+							<string>kTimelineDefaultIdentifier</string>
+							<key>type</key>
+							<integer>3</integer>
+						</dict>
+					</array>
+				</dict>
+				<key>onTopDuringSceneTransition</key>
+				<true/>
+				<key>preferredSize</key>
+				<string>{164, 71}</string>
+				<key>properties</key>
+				<dict>
+					<key>PhysicsGravityAngle</key>
+					<real>180</real>
+					<key>PhysicsGravityForce</key>
+					<real>1</real>
+					<key>PhysicsGravityInheritFromParent</key>
+					<false/>
+					<key>PhysicsGravityUsesDeviceTilt</key>
+					<false/>
+				</dict>
+				<key>removeWhenNoLongerReferenced</key>
+				<true/>
+				<key>showInResourceLibrary</key>
+				<true/>
 				<key>timelines</key>
 				<array>
 					<dict>
