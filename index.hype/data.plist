@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>89</string>
+	<string>708</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-05-18T04:52:43Z</date>
+	<date>2015-05-18T04:53:37Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -326,18 +326,6 @@
 				<key>resources</key>
 				<array>
 					<string>1385039_168326496697887_1626907443_n.jpg</string>
-				</array>
-			</dict>
-			<dict>
-				<key>expanded</key>
-				<true/>
-				<key>name</key>
-				<string>1378498_173595246171012_502557264_n</string>
-				<key>oid</key>
-				<string>637</string>
-				<key>resources</key>
-				<array>
-					<string>1378498_173595246171012_502557264_n.jpg</string>
 				</array>
 			</dict>
 			<dict>
@@ -815,60 +803,6 @@
 				AAQDAACoQwYAAAAAAAgAAAAEAwAA5FeVAAAAAAAIAAAA
 				BAMAADxdlQAAAAAAIAAAAAEGAADoAAAA+AAAAAgBAAAY
 				AQAAKAEAADgBAABIAQAAWAEAAAgAAAAABAAAQbouiAwA
-				AAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAA
-				AAgAAAAEAwAABgAAAAAAAAAEAAAAAwMAAPYBAAAMAAAA
-				AQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAICBPXQAAAAI
-				AAAAAAQAAEG5c/rGAAAAJAAAAAEBAABEN0UyQzBENi1F
-				NDgwLTNGODctOUI3Qy01NTdGRTU1RTBFOTIYAAAAAQIA
-				AIEAAAABAAgA7xcAAAEACAAAAAAAAAAAAAEAAAABAQAA
-				LwAAAAAAAAABBQAABAAAAAMDAAAACQAowAAAAP7///8B
-				AAAAAAAAAA8AAAAEEAAAwAAAAAAAAAAFEAAAaAEAAAAA
-				AAAQEAAAoAEAAAAAAABAEAAAkAEAAAAAAAACIAAAXAIA
-				AAAAAAAQIAAA3AEAAAAAAAARIAAAEAIAAAAAAAASIAAA
-				8AEAAAAAAAATIAAAAAIAAAAAAAAgIAAAPAIAAAAAAAAw
-				IAAAaAIAAAAAAAABwAAAwAEAAAAAAAARwAAAFAAAAAAA
-				AAASwAAA0AEAAAAAAAAQ0AAAcAIAAAAAAAA=
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2014-12-02T23:44:02Z</date>
-				<key>fileSize</key>
-				<integer>119768</integer>
-				<key>md5</key>
-				<string>228A61BBBCA8D3375C28487EB6A7C0C8</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/caitlin/Desktop/Documents/DOMINICAN REPUBLIC/COTEDEMI/Ladies of COTEDEMI/1378498_173595246171012_502557264_n.jpg</string>
-				<key>resourceName</key>
-				<string>1378498_173595246171012_502557264_n.jpg</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va3QDAAAAAAQQMAAAAHXe1CSOrJUNZ87PM2sU8qoK
-				jLESLMux25RunUGY+XWRfAIAAAUAAAABAQAAVXNlcnMA
-				AAAHAAAAAQEAAGNhaXRsaW4ABwAAAAEBAABEZXNrdG9w
-				AAkAAAABAQAARG9jdW1lbnRzAAAAEgAAAAEBAABET01J
-				TklDQU4gUkVQVUJMSUMAAAgAAAABAQAAQ09URURFTUkS
-				AAAAAQEAAExhZGllcyBvZiBDT1RFREVNSQAAJwAAAAEB
-				AAAxMzc4NDk4XzE3MzU5NTI0NjE3MTAxMl81MDI1NTcy
-				NjRfbi5qcGcAIAAAAAEGAAAEAAAAFAAAACQAAAA0AAAA
-				SAAAAGQAAAB0AAAAkAAAAAgAAAAEAwAAS2QCAAAAAAAI
-				AAAABAMAAEU5BgAAAAAACAAAAAQDAACdOQYAAAAAAAgA
-				AAAEAwAAPEMGAAAAAAAIAAAABAMAAHqTpwAAAAAACAAA
-				AAQDAACoQwYAAAAAAAgAAAAEAwAA5FeVAAAAAAAIAAAA
-				BAMAADpYlQAAAAAAIAAAAAEGAADoAAAA+AAAAAgBAAAY
-				AQAAKAEAADgBAABIAQAAWAEAAAgAAAAABAAAQbouhkIA
 				AAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAA
 				AAgAAAAEAwAABgAAAAAAAAAEAAAAAwMAAPYBAAAMAAAA
 				AQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAICBPXQAAAAI
@@ -1554,7 +1488,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2180, 2252}</string>
+					<string>{1401, 1414}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1579,7 +1513,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>485</string>
 					<key>scrollViewOffset</key>
-					<string>{5, 0}</string>
+					<string>{109, 0}</string>
 					<key>userGuides</key>
 					<array/>
 				</dict>
@@ -1608,7 +1542,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2893, 1936}</string>
+					<string>{2715, 1411}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1633,7 +1567,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>15</string>
 					<key>scrollViewOffset</key>
-					<string>{18, 0}</string>
+					<string>{217, 104}</string>
 					<key>userGuides</key>
 					<array/>
 				</dict>
@@ -1656,13 +1590,13 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>1.5333333015441895</real>
+							<real>2.3333332538604736</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2160, 1940}</string>
+					<string>{1562, 1249}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1687,7 +1621,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>93</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{194, 72}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1714,7 +1648,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2160, 1940}</string>
+					<string>{1652, 1261}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1739,7 +1673,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>100</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{182, 70}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1766,7 +1700,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2704, 2240}</string>
+					<string>{1542, 1253}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1818,7 +1752,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2160, 1940}</string>
+					<string>{1661, 1581}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1843,7 +1777,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>502</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{123, 59}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1870,7 +1804,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2230, 1940}</string>
+					<string>{2050, 1252}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1895,7 +1829,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>114</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{180, 70}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1922,7 +1856,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2428, 2359}</string>
+					<string>{1672, 1873}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1947,7 +1881,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>121</string>
 					<key>scrollViewOffset</key>
-					<string>{66, 0}</string>
+					<string>{295, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1974,7 +1908,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2160, 1940}</string>
+					<string>{1515, 1245}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1999,7 +1933,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>128</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{177, 70}</string>
 				</dict>
 			</array>
 		</dict>
@@ -2026,7 +1960,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2160, 1944}</string>
+					<string>{1523, 1245}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2051,59 +1985,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>529</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>currentSceneOid</key>
-			<string>676</string>
-			<key>name</key>
-			<string>Untitled Scene 2</string>
-			<key>oid</key>
-			<string>671</string>
-			<key>scenes</key>
-			<array>
-				<dict>
-					<key>animationController</key>
-					<dict>
-						<key>expandedItems</key>
-						<array/>
-						<key>timeCursors</key>
-						<dict>
-							<key>kTimelineDefaultIdentifier</key>
-							<real>0.0</real>
-						</dict>
-						<key>timescale</key>
-						<integer>60</integer>
-					</dict>
-					<key>canvasSize</key>
-					<string>{2304, 1976}</string>
-					<key>hypeScene</key>
-					<dict>
-						<key>backgroundColor</key>
-						<string>#FFFFFF</string>
-						<key>breakpointWidth</key>
-						<real>1200</real>
-						<key>name</key>
-						<string>Desktop</string>
-						<key>perspective</key>
-						<real>600</real>
-						<key>sceneScalePercentageSize</key>
-						<string>{1, 1}</string>
-						<key>sceneSize</key>
-						<string>{1200, 1200}</string>
-						<key>shouldScaleSceneHeight</key>
-						<false/>
-						<key>shouldScaleSceneWidth</key>
-						<false/>
-					</dict>
-					<key>oid</key>
-					<string>676</string>
-					<key>rootSymbolControllerOid</key>
-					<string>672</string>
-					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{181, 69}</string>
 				</dict>
 			</array>
 		</dict>
@@ -2130,7 +2012,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2236, 2208}</string>
+					<string>{1303, 1245}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2155,7 +2037,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>709</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{34, 137}</string>
 				</dict>
 			</array>
 		</dict>
@@ -2182,7 +2064,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2236, 2236}</string>
+					<string>{1303, 1407}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2207,7 +2089,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>718</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 74}</string>
+					<string>{33, 218}</string>
 				</dict>
 			</array>
 		</dict>
@@ -2234,7 +2116,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2220, 2056}</string>
+					<string>{1358, 1245}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2259,7 +2141,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>749</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{69, 13}</string>
 				</dict>
 			</array>
 		</dict>
@@ -11426,7 +11308,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>617</string>
+				<string>634</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -11773,7 +11655,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>116px</string>
+							<string>108px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11803,7 +11685,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>-224px</string>
+							<string>430px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11902,7 +11784,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>525px</string>
+							<string>591px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11920,7 +11802,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>897px</string>
+							<string>929px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11932,7 +11814,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>-5px</string>
+							<string>-19px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11956,7 +11838,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>1196px</string>
+							<string>1238px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11989,148 +11871,25 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<string>div</string>
 						</dict>
 					</array>
-					<key>638</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalWidth</string>
-							<key>objectValue</key>
-							<string>960px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Display</string>
-							<key>objectValue</key>
-							<string>inline</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Opacity</string>
-							<key>objectValue</key>
-							<string>0.131816</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Image</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>112px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundRepeat</string>
-							<key>objectValue</key>
-							<string>no-repeat</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>674px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundImageResourceGroupOid</string>
-							<key>objectValue</key>
-							<string>637</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>618px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SizeRatio</string>
-							<key>objectValue</key>
-							<string>1.33333</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>InnerHTML</string>
-							<key>objectValue</key>
-							<string></string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>10</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>899px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundSize</string>
-							<key>objectValue</key>
-							<string>100% 100%</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>1378498_173595246171012_502557264_n</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalHeight</string>
-							<key>objectValue</key>
-							<string>720px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-					</array>
 					<key>639</key>
 					<array>
 						<dict>
 							<key>identifier</key>
 							<string>FontFamily</string>
 							<key>objectValue</key>
-							<string>Helvetica,Arial,Sans-Serif</string>
+							<string>AppleGothic,sans-serif</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>TextColor</string>
 							<key>objectValue</key>
 							<string>#000000</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FontWeight</string>
+							<key>objectValue</key>
+							<string>bold</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -12172,7 +11931,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>71px</string>
+							<string>92px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -12196,37 +11955,37 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>555px</string>
+							<string>558px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>10px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Courier, Courier New, monospace" size="7"&gt;Active Participation:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;- Civil Innovation Lab - Diagnostic and Framework Model, Jimaní: Challenges, goals and Strategy for Sustainable Development&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Resilience &amp;nbsp;the Border Strategy Facilitated by Stanford UniversityTEDxJacmel - Sharing of information to youths in Haiti&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Joint Bi-National Strategy with Dominican and Haitian ICT Chambers&lt;/div&gt;&lt;div&gt;- Youth Entrepreneurship - Making Kites&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Universtiy of Massachussets Law School Field Visit&lt;/div&gt;&lt;div&gt;- Markets of Hope-Global Trade &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Civil Innovation Summer Camp 2014&lt;/div&gt;&lt;div&gt;- CoWorking Space for Entrepreneurs&amp;nbsp;&lt;/div&gt;&lt;div&gt;- December Community Banking Participatory Strategy Facilitated by ADOPEM Bank &amp;nbsp;&lt;/div&gt;&lt;div&gt;- Code the Deal Hackathon New York City&amp;nbsp;&lt;/div&gt;&lt;div&gt;- American Bar Association Legal Appathon, Boston&lt;/div&gt;&lt;div&gt;&lt;font face="Courier, Courier New, monospace" style="font-size: 36px;"&gt;Business Development:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;-Cleaning Products&lt;/div&gt;&lt;div&gt;-Frio Frio&lt;/div&gt;&lt;div&gt;-Croched Hats&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>16</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>1124px</string>
+							<string>&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Our Active Participation:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Civil Innovation Lab - Diagnostic and Framework&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Model, Jimaní: Challenges, goals and Strategy for &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Sustainable Development&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Resilience &amp;nbsp;the Border Strategy Facilitated by&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;&amp;nbsp; &amp;nbsp;Stanford UniversityTEDxJacmel - Sharing of &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;&amp;nbsp; &amp;nbsp;information to youths in Haiti&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Joint Bi-National Strategy with Dominican + Haitian &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;ICT Chambers&lt;/div&gt;&lt;div&gt;- Youth Entrepreneurship - Making Kites&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Universtiy of Massachussets Law School Field Visit&lt;/div&gt;&lt;div&gt;- Markets of Hope-Global Trade &amp;amp; Social Enterprise &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;- Civil Innovation Summer Camp 2014&lt;/div&gt;&lt;div&gt;- CoWorking Space for Entrepreneurs&amp;nbsp;&lt;/div&gt;&lt;div&gt;- December Community Banking Participatory &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Strategy Facilitated by ADOPEM Bank &amp;nbsp;&lt;/div&gt;&lt;div&gt;- Code the Deal Hackathon New York City - We Go Legal&amp;nbsp;&lt;/div&gt;&lt;div&gt;- American Bar Association Legal Appathon&lt;/div&gt;&lt;div&gt;Business Development:&lt;/div&gt;&lt;div&gt;&amp;nbsp; -Cleaning Products&lt;/div&gt;&lt;div&gt;&amp;nbsp; -Frio Frio&lt;/div&gt;&lt;div&gt;&amp;nbsp; -Croched Hats&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>PaddingLeft</string>
 							<key>objectValue</key>
 							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>708px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>16</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15021,621 +14780,6 @@ https://www.ted.com/tedx/events/10999</string>
 				<true/>
 				<key>showInResourceLibrary</key>
 				<true/>
-				<key>timelines</key>
-				<array>
-					<dict>
-						<key>animations</key>
-						<array/>
-						<key>firstKeyframeIsRelative</key>
-						<false/>
-						<key>framesPerSecond</key>
-						<integer>30</integer>
-						<key>hidden</key>
-						<false/>
-						<key>identifier</key>
-						<string>kTimelineDefaultIdentifier</string>
-						<key>name</key>
-						<string>Main Timeline</string>
-						<key>userDefinedDuration</key>
-						<real>0.0</real>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-		<dict>
-			<key>documentIdentifier</key>
-			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
-			<key>selectedObjects</key>
-			<array>
-				<string>678</string>
-				<string>677</string>
-			</array>
-			<key>symbol</key>
-			<dict>
-				<key>addToNewSceneControllers</key>
-				<false/>
-				<key>currentTimelineIdentifier</key>
-				<string>kTimelineDefaultIdentifier</string>
-				<key>customBehaviors</key>
-				<array/>
-				<key>elements</key>
-				<dict>
-					<key>674</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>unnamed instance</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SymbolOid</string>
-							<key>objectValue</key>
-							<string>211</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>-14px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>76px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>1214px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>16</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>-5px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Symbol</string>
-						</dict>
-					</array>
-					<key>675</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>unnamed instance</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SymbolOid</string>
-							<key>objectValue</key>
-							<string>604</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>1013px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>71px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Cursor</string>
-							<key>objectValue</key>
-							<string>pointer</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>31</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>822px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>164px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ActionHandlerOnMouseClick</string>
-							<key>objectValue</key>
-							<dict>
-								<key>actions</key>
-								<array>
-									<dict>
-										<key>duration</key>
-										<real>1.1000000000000001</real>
-										<key>sceneOid</key>
-										<string>1</string>
-										<key>transition</key>
-										<integer>1</integer>
-										<key>type</key>
-										<integer>1</integer>
-									</dict>
-								</array>
-							</dict>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Symbol</string>
-						</dict>
-					</array>
-					<key>677</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>FontFamily</string>
-							<key>objectValue</key>
-							<string>AppleGothic,sans-serif</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TextColor</string>
-							<key>objectValue</key>
-							<string>#000000</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>PaddingRight</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>FontSize</string>
-							<key>objectValue</key>
-							<string>16px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Display</string>
-							<key>objectValue</key>
-							<string>inline</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>WordWrap</string>
-							<key>objectValue</key>
-							<string>break-word</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Text</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>235px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>PaddingBottom</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>WhiteSpaceCollapsing</string>
-							<key>objectValue</key>
-							<string>preserve</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>630px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>28px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>InnerHTML</string>
-							<key>objectValue</key>
-							<string>&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;What do you actually do?&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;- Supervise weekly savings circles that allow women lacking access to formal banking to save and borrow money with people they trus ­Our weekly workshops focus on business growth, marketing, savings for legal documentation, healthcare and education&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;- Assist business owners to secure proper documentation and pay business taxes to the council of the town of Jimaní&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;- Provide small loans from $50­-500 for capable entrepreneurs who wish to build their business or create new ones&lt;/span&gt;&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;Who are your partners?&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;&amp;nbsp;&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;In conjunction with Banco ADOPEM's &amp;nbsp;"community banking”&amp;nbsp;product, we are assisting undocumented migrants a formal way to save, borrow and have access to workshops in the areas of financial literacy, entrepreneurship, health and education. We are also working with programers and software developers in both the Dominican Republic and the United States.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;How do you engage women?&lt;/span&gt;&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;Local workshops, cultural events and group activities, financial literacy training, etc.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;-hackathons&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;-entrepreneurial challenges&amp;nbsp;&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;What is the issue with documentation?&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;Legal status is a powerful element that provide individuals with the ability to travel safely and earn more money, thereby lowering rates of poverty. Unlike the United States, the DR does not grant citizenship to children who are born to undocumented parents. Currently hundreds of thousands of individuals of Haitian descent are denied access to affordable health services, basic legal protections and the right to vote. In Jimaní all children are allowed to attend primary school however once they reach middle school, they are required to provide proper documentation. If documentation is not available their education ends. Our program helps families whose children are dependent on documentation to attend school.&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="color: rgb(0, 0, 0); font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: left; text-transform: none; text-indent: 0px; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;We are serving 95 women and 130 of their dependents and believe that our model provides families a trusted place to save for this documentation. We have the potential of assisting 1,000 families to become integrated, visible and active members of Dominican society.&amp;nbsp;&lt;/div&gt;</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>PaddingLeft</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>1185px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>32</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>PaddingTop</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>Text</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-					</array>
-					<key>678</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>FontFamily</string>
-							<key>objectValue</key>
-							<string>Helvetica,Arial,Sans-Serif</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TextColor</string>
-							<key>objectValue</key>
-							<string>#000000</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>PaddingRight</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>FontSize</string>
-							<key>objectValue</key>
-							<string>16px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Display</string>
-							<key>objectValue</key>
-							<string>inline</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>WordWrap</string>
-							<key>objectValue</key>
-							<string>break-word</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Text</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>167px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>PaddingBottom</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>WhiteSpaceCollapsing</string>
-							<key>objectValue</key>
-							<string>preserve</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>18px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>40px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>InnerHTML</string>
-							<key>objectValue</key>
-							<string>FAQ's</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>PaddingLeft</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>45px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>33</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>PaddingTop</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>Text 1</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-					</array>
-					<key>742</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>264px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SymbolOid</string>
-							<key>objectValue</key>
-							<string>724</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>unnamed instance</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>34</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>920px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>-62px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Symbol</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>1175px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-					</array>
-				</dict>
-				<key>isPersistentSymbol</key>
-				<false/>
-				<key>name</key>
-				<string>Scene Symbol 2</string>
-				<key>oid</key>
-				<string>672</string>
-				<key>onSceneDragActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneKeyDownActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneKeyPressActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneKeyUpActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneLoadActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneSwipeDownActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneSwipeLeftActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneSwipeRightActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneSwipeUpActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneTimelineCompleteActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneUnloadActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onTopDuringSceneTransition</key>
-				<true/>
-				<key>properties</key>
-				<dict>
-					<key>PhysicsGravityAngle</key>
-					<real>180</real>
-					<key>PhysicsGravityForce</key>
-					<real>1</real>
-					<key>PhysicsGravityInheritFromParent</key>
-					<false/>
-					<key>PhysicsGravityUsesDeviceTilt</key>
-					<false/>
-				</dict>
-				<key>removeWhenNoLongerReferenced</key>
-				<true/>
-				<key>showInResourceLibrary</key>
-				<false/>
 				<key>timelines</key>
 				<array>
 					<dict>
@@ -19178,6 +18322,6 @@ https://www.ted.com/tedx/events/10999</string>
 	<key>webAppCapable</key>
 	<integer>0</integer>
 	<key>zoomFactor</key>
-	<real>0.25</real>
+	<real>0.5</real>
 </dict>
 </plist>
