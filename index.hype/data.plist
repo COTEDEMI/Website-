@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>496</string>
+	<string>117</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-05-18T05:19:22Z</date>
+	<date>2015-05-18T05:21:20Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -1856,7 +1856,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1672, 1873}</string>
+					<string>{1274, 1714}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1881,7 +1881,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>121</string>
 					<key>scrollViewOffset</key>
-					<string>{295, 0}</string>
+					<string>{0, 189}</string>
 				</dict>
 			</array>
 		</dict>
@@ -5445,9 +5445,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 			<key>documentIdentifier</key>
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>686</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -7267,75 +7265,6 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<string>DisplayName</string>
 							<key>objectValue</key>
 							<string>Text 6</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-					</array>
-					<key>737</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>264px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SymbolOid</string>
-							<key>objectValue</key>
-							<string>724</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>unnamed instance</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>29</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>942px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>-247px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Symbol</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>1175px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16543,7 +16472,7 @@ https://www.ted.com/tedx/events/10999</string>
 				<key>onTopDuringSceneTransition</key>
 				<true/>
 				<key>preferredSize</key>
-				<string>{1175, 264}</string>
+				<string>{1175, 259}</string>
 				<key>properties</key>
 				<dict>
 					<key>PhysicsGravityAngle</key>
