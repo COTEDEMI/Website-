@@ -29,11 +29,11 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-05-18T03:42:13Z</date>
+	<date>2015-05-18T03:42:54Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>4</integer>
+		<integer>3</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
@@ -1548,7 +1548,7 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>2.4666666984558105</real>
+							<real>0.89999997615814209</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
@@ -1579,7 +1579,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>485</string>
 					<key>scrollViewOffset</key>
-					<string>{12, 139}</string>
+					<string>{156, 0}</string>
 					<key>userGuides</key>
 					<array/>
 				</dict>
@@ -11199,7 +11199,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>#3D74D1</string>
+							<string>#D1D1D1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11229,7 +11229,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>BorderColorBottom</string>
 							<key>objectValue</key>
-							<string>#009C1C</string>
+							<string>#0221A0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11283,7 +11283,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>BorderColorTop</string>
 							<key>objectValue</key>
-							<string>#009C1C</string>
+							<string>#0221A0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11373,7 +11373,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>BorderColorLeft</string>
 							<key>objectValue</key>
-							<string>#009C1C</string>
+							<string>#0221A0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11429,7 +11429,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>BorderColorRight</string>
 							<key>objectValue</key>
-							<string>#009C1C</string>
+							<string>#0221A0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
