@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>96</string>
+	<string>89</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -29,11 +29,11 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-05-18T04:36:47Z</date>
+	<date>2015-05-18T04:52:43Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>3</integer>
+		<integer>4</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
@@ -1708,7 +1708,7 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>0.0</real>
+							<real>0.56666666269302368</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
@@ -1974,7 +1974,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2248, 2124}</string>
+					<string>{2160, 1940}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2026,7 +2026,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2484, 2056}</string>
+					<string>{2160, 1944}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -3299,9 +3299,7 @@
 			<key>documentIdentifier</key>
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>611</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -3968,13 +3966,13 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>928px</string>
+							<string>920px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>-277px</string>
+							<string>-309px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4031,7 +4029,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>FontSize</string>
 							<key>objectValue</key>
-							<string>18px</string>
+							<string>36px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4085,7 +4083,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>22px</string>
+							<string>44px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4109,7 +4107,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>90px</string>
+							<string>169px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7722,7 +7720,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>425</string>
+				<string>740</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -8049,13 +8047,13 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>920px</string>
+							<string>906px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>-62px</string>
+							<string>-274px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14212,7 +14210,9 @@ https://www.ted.com/tedx/events/10999</string>
 			<key>documentIdentifier</key>
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>741</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -14538,7 +14538,7 @@ https://www.ted.com/tedx/events/10999</string>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>-62px</string>
+							<string>-282px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
