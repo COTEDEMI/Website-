@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-05-18T05:02:33Z</date>
+	<date>2015-05-18T05:19:22Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -1673,7 +1673,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>100</string>
 					<key>scrollViewOffset</key>
-					<string>{182, 70}</string>
+					<string>{0, -0.0859375}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1746,7 +1746,7 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>0.0</real>
+							<real>2.8666667938232422</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
@@ -1777,7 +1777,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>502</string>
 					<key>scrollViewOffset</key>
-					<string>{249, 0}</string>
+					<string>{0, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -4146,7 +4146,9 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 			<key>documentIdentifier</key>
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>537</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -4580,7 +4582,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;b&gt;PINGBLIP&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;span style=""&gt;In February of 2015 PingBlip was looking to work with us to launch an&amp;nbsp;&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-size: 36px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;e-banking platform that would help us generate comercial revenue. PingBlip was a finalist &lt;/span&gt;&lt;span style=""&gt;in the Chivas&amp;nbsp;“The Venture” social entrepreneurship competetion "to create a network of banking partnerships and distribution centers that would allow remote and low-income communities to promote their businesses in major commercial centers, providng a cost effective means of&amp;nbsp;transferring&amp;nbsp;goods and money. The first stage they proposed will focus on Jimani, Santo Domingo, Puerto Príncipe and New York.” &amp;nbsp;Although we are currently a small womens group, we are looking to larger projects that invovled technology&amp;nbsp;&lt;br&gt;@pingblip &lt;/span&gt;&lt;font&gt;&lt;a href="https://www.theventure.com/global/en/news/finalists-announced-for-the-dominican-republic"&gt;https://www.theventure.com/global/en/news/finalists-announced-for-the-dominican-republic&lt;/a&gt;&lt;br&gt;&amp;nbsp;&lt;/font&gt;&lt;span id="docs-internal-guid-7410dd49-f1f0-52dc-529c-5bfa2cf82614"&gt;&lt;p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;/span&gt;</string>
+							<string>&lt;b&gt;PINGBLIP&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;span style=""&gt;In February of 2015 one of our team members joinied a project called PingBlip to launch an&amp;nbsp;&lt;/span&gt;&lt;span style="text-align: left; text-indent: 0px; background-color: rgb(255, 255, 255);"&gt;e-banking platform that would generate more comercial revenue for small and medium sized&amp;nbsp;businesses. &amp;nbsp;PingBlip was a finalist &lt;/span&gt;&lt;span style=""&gt;in the Chivas&amp;nbsp;“The Venture” social entrepreneurship competetion "to create a network of banking partnerships and distribution centers that would allow remote and low-income communities to promote their businesses in major commercial centers, providng a cost effective means of&amp;nbsp;transferring&amp;nbsp;goods and money. The first stage they proposed will focus on Jimani, Santo Domingo, Puerto Príncipe and New York.” and they are currently working &amp;nbsp;&amp;nbsp;&lt;br&gt;@pingblip &lt;/span&gt;&lt;font&gt;&lt;a href="https://www.theventure.com/global/en/news/finalists-announced-for-the-dominican-republic"&gt;https://www.theventure.com/global/en/news/finalists-announced-for-the-dominican-republic&lt;/a&gt;&lt;br&gt;&amp;nbsp;&lt;/font&gt;&lt;span id="docs-internal-guid-7410dd49-f1f0-52dc-529c-5bfa2cf82614"&gt;&lt;p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;/span&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11889,7 +11891,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>FontWeight</string>
 							<key>objectValue</key>
-							<string>bold</string>
+							<string>normal</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11967,7 +11969,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size: 36px;"&gt;Active Participation in:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Civil Innovation Lab - Diagnostic and Framework&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Model, Jimaní: Challenges, goals and Strategy for &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Sustainable Development&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Resilience &amp;nbsp;the Border Strategy Facilitated by&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;&amp;nbsp; &amp;nbsp;Stanford UniversityTEDxJacmel - Sharing of &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;&amp;nbsp; &amp;nbsp;information to youths in Haiti&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Joint Bi-National Strategy with Dominican + Haitian &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;ICT Chambers&lt;/div&gt;&lt;div&gt;- Youth Entrepreneurship - Making Kites&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Universtiy of Massachussets Law School Field Visit&lt;/div&gt;&lt;div&gt;- Markets of Hope-Global Trade &amp;amp; Social Enterprise &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;- Civil Innovation Summer Camp 2014&lt;/div&gt;&lt;div&gt;- CoWorking Space for Entrepreneurs&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Community Banking Participatory &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Strategy Facilitated by ADOPEM Bank &amp;nbsp;&lt;/div&gt;&lt;div&gt;- Code the Deal Hackathon New York City - We Go Legal&amp;nbsp;&lt;/div&gt;&lt;div&gt;- American Bar Association Legal Appathon&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;</string>
+							<string>&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size: 36px;"&gt;&lt;b&gt;Active Participation in:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Civil Innovation Lab - Diagnostic and Framework&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Model, Jimaní: Challenges, goals and Strategy for &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Sustainable Development&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Resilience &amp;nbsp;the Border Strategy Facilitated by&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;&amp;nbsp; &amp;nbsp;Stanford UniversityTEDxJacmel - Sharing of &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;&amp;nbsp; &amp;nbsp;information to youths in Haiti&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Joint Bi-National Strategy with Dominican + Haitian &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;ICT Chambers&lt;/div&gt;&lt;div&gt;- Youth Entrepreneurship - Making Kites&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Universtiy of Massachussets Law School Field Visit&lt;/div&gt;&lt;div&gt;- Markets of Hope-Global Trade &amp;amp; Social Enterprise &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;- Civil Innovation Summer Camp 2014&lt;/div&gt;&lt;div&gt;- CoWorking Space for Entrepreneurs&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Community Banking Participatory &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Strategy Facilitated by ADOPEM Bank &amp;nbsp;&lt;/div&gt;&lt;div&gt;- Code the Deal Hackathon New York City - We Go Legal&amp;nbsp;&lt;/div&gt;&lt;div&gt;- American Bar Association Legal Appathon&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
