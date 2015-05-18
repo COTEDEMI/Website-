@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>708</string>
+	<string>496</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-05-18T04:53:37Z</date>
+	<date>2015-05-18T05:02:33Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -1777,7 +1777,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>502</string>
 					<key>scrollViewOffset</key>
-					<string>{123, 59}</string>
+					<string>{249, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -9410,7 +9410,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Collaborate + Volunteer&lt;br&gt;</string>
+							<string>Action&lt;br&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11308,7 +11308,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>634</string>
+				<string>639</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -11955,7 +11955,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>558px</string>
+							<string>741px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11967,7 +11967,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Our Active Participation:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Civil Innovation Lab - Diagnostic and Framework&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Model, Jimaní: Challenges, goals and Strategy for &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Sustainable Development&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Resilience &amp;nbsp;the Border Strategy Facilitated by&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;&amp;nbsp; &amp;nbsp;Stanford UniversityTEDxJacmel - Sharing of &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;&amp;nbsp; &amp;nbsp;information to youths in Haiti&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Joint Bi-National Strategy with Dominican + Haitian &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;ICT Chambers&lt;/div&gt;&lt;div&gt;- Youth Entrepreneurship - Making Kites&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Universtiy of Massachussets Law School Field Visit&lt;/div&gt;&lt;div&gt;- Markets of Hope-Global Trade &amp;amp; Social Enterprise &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;- Civil Innovation Summer Camp 2014&lt;/div&gt;&lt;div&gt;- CoWorking Space for Entrepreneurs&amp;nbsp;&lt;/div&gt;&lt;div&gt;- December Community Banking Participatory &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Strategy Facilitated by ADOPEM Bank &amp;nbsp;&lt;/div&gt;&lt;div&gt;- Code the Deal Hackathon New York City - We Go Legal&amp;nbsp;&lt;/div&gt;&lt;div&gt;- American Bar Association Legal Appathon&lt;/div&gt;&lt;div&gt;Business Development:&lt;/div&gt;&lt;div&gt;&amp;nbsp; -Cleaning Products&lt;/div&gt;&lt;div&gt;&amp;nbsp; -Frio Frio&lt;/div&gt;&lt;div&gt;&amp;nbsp; -Croched Hats&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;</string>
+							<string>&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size: 36px;"&gt;Active Participation in:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Civil Innovation Lab - Diagnostic and Framework&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Model, Jimaní: Challenges, goals and Strategy for &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Sustainable Development&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Resilience &amp;nbsp;the Border Strategy Facilitated by&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;&amp;nbsp; &amp;nbsp;Stanford UniversityTEDxJacmel - Sharing of &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;&amp;nbsp; &amp;nbsp;information to youths in Haiti&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Joint Bi-National Strategy with Dominican + Haitian &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;ICT Chambers&lt;/div&gt;&lt;div&gt;- Youth Entrepreneurship - Making Kites&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Universtiy of Massachussets Law School Field Visit&lt;/div&gt;&lt;div&gt;- Markets of Hope-Global Trade &amp;amp; Social Enterprise &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;- Civil Innovation Summer Camp 2014&lt;/div&gt;&lt;div&gt;- CoWorking Space for Entrepreneurs&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Community Banking Participatory &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Strategy Facilitated by ADOPEM Bank &amp;nbsp;&lt;/div&gt;&lt;div&gt;- Code the Deal Hackathon New York City - We Go Legal&amp;nbsp;&lt;/div&gt;&lt;div&gt;- American Bar Association Legal Appathon&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
