@@ -29,11 +29,11 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-05-18T04:20:50Z</date>
+	<date>2015-05-18T04:35:18Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>4</integer>
+		<integer>3</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
@@ -125,7 +125,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{271, 0}, {540, 211}}</string>
+													<string>{{271, 0}, {540, 210.9609375}}</string>
 													<key>identifier</key>
 													<string>timelineCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -148,7 +148,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{271, 212}, {540, 485}}</string>
+													<string>{{271, 211.9609375}, {540, 485.0390625}}</string>
 													<key>identifier</key>
 													<string>sceneEditorCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -213,7 +213,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>97</real>
 		<key>mainWindowFrame</key>
-		<string>52 54 1353 719 0 0 1280 778 </string>
+		<string>-26 59 1353 719 0 0 1280 778 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -251,7 +251,7 @@
 	<key>mobileStatusBarStyle</key>
 	<integer>0</integer>
 	<key>oidCounter</key>
-	<integer>776</integer>
+	<integer>777</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -1602,13 +1602,13 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>2.5333333015441895</real>
+							<real>1.9666666984558105</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2160, 1936}</string>
+					<string>{2893, 1936}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1633,7 +1633,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>15</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{18, 0}</string>
 					<key>userGuides</key>
 					<array/>
 				</dict>
@@ -1662,7 +1662,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2476, 2244}</string>
+					<string>{2160, 1936}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1687,7 +1687,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>93</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 76}</string>
+					<string>{0, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1714,7 +1714,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2704, 2252}</string>
+					<string>{2160, 1940}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1818,7 +1818,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2740, 2256}</string>
+					<string>{2160, 1940}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1843,7 +1843,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>502</string>
 					<key>scrollViewOffset</key>
-					<string>{144, 0}</string>
+					<string>{0, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1870,7 +1870,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2775, 2240}</string>
+					<string>{2230, 1940}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2286,7 +2286,9 @@
 			<key>documentIdentifier</key>
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>777</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -2345,7 +2347,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>16</string>
+							<string>17</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2474,7 +2476,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>26</string>
+							<string>27</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2609,7 +2611,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>27</string>
+							<string>28</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2660,7 +2662,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>977px</string>
+							<string>1001px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2684,13 +2686,13 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>31</string>
+							<string>32</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>933px</string>
+							<string>945px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2779,7 +2781,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>497px</string>
+							<string>677px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2815,7 +2817,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>304px</string>
+							<string>40px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2833,7 +2835,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>33</string>
+							<string>34</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2884,7 +2886,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>34</string>
+							<string>35</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2983,7 +2985,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>863px</string>
+							<string>892px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3013,19 +3015,19 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>216px</string>
+							<string>56px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;b&gt;Short Video of Our Women&lt;/b&gt;&lt;br&gt;</string>
+							<string>&lt;br&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>35</string>
+							<string>36</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3064,14 +3066,8 @@
 							<string>#000000</string>
 						</dict>
 					</array>
-					<key>776</key>
+					<key>777</key>
 					<array>
-						<dict>
-							<key>identifier</key>
-							<string>FontFamily</string>
-							<key>objectValue</key>
-							<string>Helvetica,Arial,Sans-Serif</string>
-						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>TagName</string>
@@ -3080,19 +3076,13 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingRight</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>FontSize</string>
-							<key>objectValue</key>
-							<string>36px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
 							<string>YES</string>
 						</dict>
@@ -3104,33 +3094,27 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>WordWrap</string>
+							<string>Opacity</string>
 							<key>objectValue</key>
-							<string>break-word</string>
+							<string>0.282220</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ClassType</string>
 							<key>objectValue</key>
-							<string>Text</string>
+							<string>Image</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>191px</string>
+							<string>-73px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingBottom</string>
+							<string>BackgroundRepeat</string>
 							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>WhiteSpaceCollapsing</string>
-							<key>objectValue</key>
-							<string>preserve</string>
+							<string>no-repeat</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3142,43 +3126,49 @@
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>256px</string>
+							<string>1371px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>329</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>36px</string>
+							<string>-44px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1.77778</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;div style="text-align: center;"&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 64px;"&gt;COTEDEMI&lt;/span&gt;&lt;/div&gt;&lt;br&gt;La CooperaciónTécnica Para El Dessarrollo de La Micro Empresa en Jimaní&amp;nbsp;&lt;br&gt;&lt;br&gt;The Technical Cooperation of Microenterprise Development in Jimaní&amp;nbsp;&lt;br&gt;</string>
+							<string></string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>36</string>
+							<string>16</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>1098px</string>
+							<string>2437px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>BackgroundSize</string>
 							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>PaddingTop</string>
-							<key>objectValue</key>
-							<string>8px</string>
+							<string>100% 100%</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3190,13 +3180,19 @@
 							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>Text 1</string>
+							<string>IMAG1189</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>#000000</string>
+							<string>1152px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>2048px</string>
 						</dict>
 					</array>
 				</dict>
@@ -3303,7 +3299,9 @@
 			<key>documentIdentifier</key>
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>611</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -3901,7 +3899,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>989px</string>
+							<string>949px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4269,7 +4267,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>537</string>
+				<string>613</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -4785,7 +4783,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>867px</string>
+							<string>959px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4991,7 +4989,9 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 			<key>documentIdentifier</key>
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>664</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -5200,7 +5200,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>1057px</string>
+							<string>958px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5212,13 +5212,13 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>1409px</string>
+							<string>1277px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>103px</string>
+							<string>107px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5305,7 +5305,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>632px</string>
+							<string>605px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5335,7 +5335,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>664px</string>
+							<string>659px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11430,7 +11430,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>735</string>
+				<string>617</string>
 			</array>
 			<key>symbol</key>
 			<dict>
