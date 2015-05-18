@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>117</string>
+	<string>124</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-05-18T05:22:56Z</date>
+	<date>2015-05-18T05:28:37Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -125,7 +125,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{271, 0}, {540, 210.9609375}}</string>
+													<string>{{271, 0}, {540, 211}}</string>
 													<key>identifier</key>
 													<string>timelineCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -148,7 +148,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{271, 211.9609375}, {540, 485.0390625}}</string>
+													<string>{{271, 212}, {540, 485}}</string>
 													<key>identifier</key>
 													<string>sceneEditorCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -213,7 +213,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>97</real>
 		<key>mainWindowFrame</key>
-		<string>0 -30 1353 719 0 0 1280 778 </string>
+		<string>28 59 1353 719 0 0 1280 778 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -251,7 +251,7 @@
 	<key>mobileStatusBarStyle</key>
 	<integer>0</integer>
 	<key>oidCounter</key>
-	<integer>777</integer>
+	<integer>785</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -464,18 +464,6 @@
 				<key>expanded</key>
 				<true/>
 				<key>name</key>
-				<string>Obed_Salomon_Resume</string>
-				<key>oid</key>
-				<string>714</string>
-				<key>resources</key>
-				<array>
-					<string>Obed_Salomon_Resume.pdf</string>
-				</array>
-			</dict>
-			<dict>
-				<key>expanded</key>
-				<true/>
-				<key>name</key>
 				<string>Echoing Green Caitlin Stilin-Rooney CV 2014</string>
 				<key>oid</key>
 				<string>722</string>
@@ -506,6 +494,18 @@
 				<key>resources</key>
 				<array>
 					<string>Wu, Sharon - Resume - May 2015.pdf</string>
+				</array>
+			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>Obed_Salomon_Resume</string>
+				<key>oid</key>
+				<string>780</string>
+				<key>resources</key>
+				<array>
+					<string>Obed_Salomon_Resume.pdf</string>
 				</array>
 			</dict>
 		</array>
@@ -1293,55 +1293,6 @@
 			</dict>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2015-01-05T15:33:39Z</date>
-				<key>fileSize</key>
-				<integer>92887</integer>
-				<key>md5</key>
-				<string>784297635E75EBD6682DD08E33EAB672</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/caitlin/Desktop/ALL/Obed_Salomon_Resume.pdf</string>
-				<key>resourceName</key>
-				<string>Obed_Salomon_Resume.pdf</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va8wCAAAAAAQQMAAAAB/iD+DpovVbsJAwUPh+ykXG
-				0FR50WcYf1BOKDoq1xLz1AEAAAUAAAABAQAAVXNlcnMA
-				AAAHAAAAAQEAAGNhaXRsaW4ABwAAAAEBAABEZXNrdG9w
-				AAMAAAABAQAAQUxMABcAAAABAQAAT2JlZF9TYWxvbW9u
-				X1Jlc3VtZS5wZGYAFAAAAAEGAAAEAAAAFAAAACQAAAA0
-				AAAAQAAAAAgAAAAEAwAAS2QCAAAAAAAIAAAABAMAAEU5
-				BgAAAAAACAAAAAQDAACdOQYAAAAAAAgAAAAEAwAAu6vi
-				AAAAAAAIAAAABAMAAAeNqwAAAAAAFAAAAAEGAAB8AAAA
-				jAAAAJwAAACsAAAAvAAAAAgAAAAABAAAQbpa5lMAAAAY
-				AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgA
-				AAAEAwAAAwAAAAAAAAAEAAAAAwMAAPYBAAAMAAAAAQEA
-				AE1hY2ludG9zaCBIRAgAAAAEAwAAAICBPXQAAAAIAAAA
-				AAQAAEG5c/rGAAAAJAAAAAEBAABEN0UyQzBENi1FNDgw
-				LTNGODctOUI3Qy01NTdGRTU1RTBFOTIYAAAAAQIAAIEA
-				AAABAAgA7xcAAAEACAAAAAAAAAAAAAEAAAABAQAALwAA
-				AAAAAAABBQAABAAAAAMDAAAACQAowAAAAP7///8BAAAA
-				AAAAAA8AAAAEEAAAYAAAAAAAAAAFEAAAzAAAAAAAAAAQ
-				EAAA+AAAAAAAAABAEAAA6AAAAAAAAAACIAAAtAEAAAAA
-				AAAQIAAANAEAAAAAAAARIAAAaAEAAAAAAAASIAAASAEA
-				AAAAAAATIAAAWAEAAAAAAAAgIAAAlAEAAAAAAAAwIAAA
-				wAEAAAAAAAABwAAAGAEAAAAAAAARwAAAFAAAAAAAAAAS
-				wAAAKAEAAAAAAAAQ0AAAyAEAAAAAAAA=
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
 				<date>2015-01-03T06:25:18Z</date>
 				<key>fileSize</key>
 				<integer>83818</integer>
@@ -1449,6 +1400,55 @@
 				AIABAAAAAAAAMCAAAKwBAAAAAAAAAcAAAAQBAAAAAAAA
 				EcAAABQAAAAAAAAAEsAAABQBAAAAAAAAENAAALQBAAAA
 				AAAA
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2015-01-05T15:33:39Z</date>
+				<key>fileSize</key>
+				<integer>92887</integer>
+				<key>md5</key>
+				<string>784297635E75EBD6682DD08E33EAB672</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/caitlin/Desktop/ALL/Obed_Salomon_Resume.pdf</string>
+				<key>resourceName</key>
+				<string>Obed_Salomon_Resume.pdf</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va8wCAAAAAAQQMAAAAB/iD+DpovVbsJAwUPh+ykXG
+				0FR50WcYf1BOKDoq1xLz1AEAAAUAAAABAQAAVXNlcnMA
+				AAAHAAAAAQEAAGNhaXRsaW4ABwAAAAEBAABEZXNrdG9w
+				AAMAAAABAQAAQUxMABcAAAABAQAAT2JlZF9TYWxvbW9u
+				X1Jlc3VtZS5wZGYAFAAAAAEGAAAEAAAAFAAAACQAAAA0
+				AAAAQAAAAAgAAAAEAwAAS2QCAAAAAAAIAAAABAMAAEU5
+				BgAAAAAACAAAAAQDAACdOQYAAAAAAAgAAAAEAwAAu6vi
+				AAAAAAAIAAAABAMAAAeNqwAAAAAAFAAAAAEGAAB8AAAA
+				jAAAAJwAAACsAAAAvAAAAAgAAAAABAAAQbpa5lMAAAAY
+				AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgA
+				AAAEAwAAAwAAAAAAAAAEAAAAAwMAAPYBAAAMAAAAAQEA
+				AE1hY2ludG9zaCBIRAgAAAAEAwAAAICBPXQAAAAIAAAA
+				AAQAAEG5c/rGAAAAJAAAAAEBAABEN0UyQzBENi1FNDgw
+				LTNGODctOUI3Qy01NTdGRTU1RTBFOTIYAAAAAQIAAIEA
+				AAABAAgA7xcAAAEACAAAAAAAAAAAAAEAAAABAQAALwAA
+				AAAAAAABBQAABAAAAAMDAAAACQAowAAAAP7///8BAAAA
+				AAAAAA8AAAAEEAAAYAAAAAAAAAAFEAAAzAAAAAAAAAAQ
+				EAAA+AAAAAAAAABAEAAA6AAAAAAAAAACIAAAtAEAAAAA
+				AAAQIAAANAEAAAAAAAARIAAAaAEAAAAAAAASIAAASAEA
+				AAAAAAATIAAAWAEAAAAAAAAgIAAAlAEAAAAAAAAwIAAA
+				wAEAAAAAAAABwAAAGAEAAAAAAAARwAAAFAAAAAAAAAAS
+				wAAAKAEAAAAAAAAQ0AAAyAEAAAAAAAA=
 				</data>
 				<key>shouldAutoResize</key>
 				<true/>
@@ -1908,7 +1908,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1515, 1245}</string>
+					<string>{1516, 1245}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1933,7 +1933,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>128</string>
 					<key>scrollViewOffset</key>
-					<string>{177, 70}</string>
+					<string>{218, 126}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1985,7 +1985,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>529</string>
 					<key>scrollViewOffset</key>
-					<string>{181, 69}</string>
+					<string>{222, 137}</string>
 				</dict>
 			</array>
 		</dict>
@@ -2012,7 +2012,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1303, 1245}</string>
+					<string>{1537, 1250}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2037,7 +2037,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>709</string>
 					<key>scrollViewOffset</key>
-					<string>{34, 137}</string>
+					<string>{229, 140}</string>
 				</dict>
 			</array>
 		</dict>
@@ -2064,7 +2064,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1303, 1407}</string>
+					<string>{1563, 1258}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2089,7 +2089,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>718</string>
 					<key>scrollViewOffset</key>
-					<string>{33, 218}</string>
+					<string>{242, 137}</string>
 				</dict>
 			</array>
 		</dict>
@@ -2116,7 +2116,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1358, 1245}</string>
+					<string>{1529, 1245}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2141,7 +2141,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>749</string>
 					<key>scrollViewOffset</key>
-					<string>{69, 13}</string>
+					<string>{225, 137}</string>
 				</dict>
 			</array>
 		</dict>
@@ -7559,7 +7559,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>740</string>
+				<string>627</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -7817,13 +7817,13 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>835px</string>
+							<string>967px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>1031px</string>
+							<string>1020px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -13927,7 +13927,7 @@ https://www.ted.com/tedx/events/10999</string>
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>741</string>
+				<string>629</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -14179,13 +14179,13 @@ https://www.ted.com/tedx/events/10999</string>
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>835px</string>
+							<string>961px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>1031px</string>
+							<string>1020px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14763,7 +14763,7 @@ https://www.ted.com/tedx/events/10999</string>
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>743</string>
+				<string>711</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -14874,7 +14874,7 @@ https://www.ted.com/tedx/events/10999</string>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>1013px</string>
+							<string>1020px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14904,7 +14904,7 @@ https://www.ted.com/tedx/events/10999</string>
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>822px</string>
+							<string>960px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14945,19 +14945,94 @@ https://www.ted.com/tedx/events/10999</string>
 							<string>Symbol</string>
 						</dict>
 					</array>
-					<key>715</key>
+					<key>743</key>
 					<array>
 						<dict>
 							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>Obed_Salomon_Resume</string>
+							<string>unnamed instance</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Position</string>
 							<key>objectValue</key>
 							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>724</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>-296px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>142px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>1044px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>33</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>925px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+					</array>
+					<key>781</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>Obed_Salomon_Resume</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14975,7 +15050,7 @@ https://www.ted.com/tedx/events/10999</string>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>225px</string>
+							<string>200px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15017,13 +15092,13 @@ https://www.ted.com/tedx/events/10999</string>
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>179px</string>
+							<string>285px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BackgroundImageResourceGroupOid</string>
 							<key>objectValue</key>
-							<string>714</string>
+							<string>780</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15047,7 +15122,7 @@ https://www.ted.com/tedx/events/10999</string>
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>32</string>
+							<string>34</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15056,55 +15131,173 @@ https://www.ted.com/tedx/events/10999</string>
 							<string>Image</string>
 						</dict>
 					</array>
-					<key>743</key>
+					<key>785</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Height</string>
+							<string>BorderStyleRight</string>
 							<key>objectValue</key>
-							<string>264px</string>
+							<string>Solid</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>SymbolOid</string>
+							<string>BorderStyleTop</string>
 							<key>objectValue</key>
-							<string>724</string>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ShowButtonEditor</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WordWrap</string>
+							<key>objectValue</key>
+							<string>break-word</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthBottom</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundColor</string>
+							<key>objectValue</key>
+							<string>#F0F0F0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthRight</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthTop</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleLeft</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FontSize</string>
+							<key>objectValue</key>
+							<string>18px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>unnamed instance</string>
+							<string>Button</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>33</string>
+							<string>#000000</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
+							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>visible</string>
+							<string>Back</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>15px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorTop</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextAlign</string>
+							<key>objectValue</key>
+							<string>center</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>6px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>920px</string>
+							<string>1038px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Left</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>-62px</string>
+							<string>35</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>UserSelect</string>
 							<key>objectValue</key>
-							<string>Symbol</string>
+							<string>none</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WhiteSpaceCollapsing</string>
+							<key>objectValue</key>
+							<string>preserve</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>6px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleBottom</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingBottom</string>
+							<key>objectValue</key>
+							<string>6px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15114,15 +15307,77 @@ https://www.ted.com/tedx/events/10999</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Width</string>
+							<string>PaddingRight</string>
 							<key>objectValue</key>
-							<string>1175px</string>
+							<string>6px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BorderColorLeft</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>90px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Button</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ActionHandlerOnMouseClick</string>
+							<key>objectValue</key>
+							<dict>
+								<key>actions</key>
+								<array>
+									<dict>
+										<key>duration</key>
+										<real>1.1000000000000001</real>
+										<key>sceneOid</key>
+										<string>117</string>
+										<key>transition</key>
+										<integer>1</integer>
+										<key>type</key>
+										<integer>1</integer>
+									</dict>
+								</array>
+							</dict>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>748px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorRight</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthLeft</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Cursor</string>
+							<key>objectValue</key>
+							<string>pointer</string>
 						</dict>
 					</array>
 				</dict>
@@ -15230,7 +15485,7 @@ https://www.ted.com/tedx/events/10999</string>
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>744</string>
+				<string>720</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -15341,7 +15596,7 @@ https://www.ted.com/tedx/events/10999</string>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>1013px</string>
+							<string>1011px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15371,7 +15626,7 @@ https://www.ted.com/tedx/events/10999</string>
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>822px</string>
+							<string>972px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15527,51 +15782,9 @@ https://www.ted.com/tedx/events/10999</string>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>264px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SymbolOid</string>
-							<key>objectValue</key>
-							<string>724</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
 							<string>unnamed instance</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>33</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>920px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>-62px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Symbol</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15581,15 +15794,308 @@ https://www.ted.com/tedx/events/10999</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>SymbolOid</string>
+							<key>objectValue</key>
+							<string>724</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>-322px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>187px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>1175px</string>
+							<string>1052px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>33</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>933px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Symbol</string>
+						</dict>
+					</array>
+					<key>784</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleRight</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleTop</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ShowButtonEditor</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WordWrap</string>
+							<key>objectValue</key>
+							<string>break-word</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthBottom</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundColor</string>
+							<key>objectValue</key>
+							<string>#F0F0F0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthRight</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthTop</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleLeft</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FontSize</string>
+							<key>objectValue</key>
+							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>Button</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextColor</string>
+							<key>objectValue</key>
+							<string>#000000</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>InnerHTML</string>
+							<key>objectValue</key>
+							<string>Back</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>15px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorTop</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextAlign</string>
+							<key>objectValue</key>
+							<string>center</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>6px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>926px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>34</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>UserSelect</string>
+							<key>objectValue</key>
+							<string>none</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WhiteSpaceCollapsing</string>
+							<key>objectValue</key>
+							<string>preserve</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>6px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleBottom</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingBottom</string>
+							<key>objectValue</key>
+							<string>6px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingRight</string>
+							<key>objectValue</key>
+							<string>6px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorLeft</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>90px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Button</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ActionHandlerOnMouseClick</string>
+							<key>objectValue</key>
+							<dict>
+								<key>actions</key>
+								<array>
+									<dict>
+										<key>duration</key>
+										<real>1.1000000000000001</real>
+										<key>sceneOid</key>
+										<string>117</string>
+										<key>transition</key>
+										<integer>1</integer>
+										<key>type</key>
+										<integer>1</integer>
+									</dict>
+								</array>
+							</dict>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>738px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorRight</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthLeft</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Cursor</string>
+							<key>objectValue</key>
+							<string>pointer</string>
 						</dict>
 					</array>
 				</dict>
@@ -16498,7 +17004,7 @@ https://www.ted.com/tedx/events/10999</string>
 				<key>onTopDuringSceneTransition</key>
 				<true/>
 				<key>preferredSize</key>
-				<string>{1175, 259}</string>
+				<string>{1044, 142}</string>
 				<key>properties</key>
 				<dict>
 					<key>PhysicsGravityAngle</key>
@@ -16540,7 +17046,7 @@ https://www.ted.com/tedx/events/10999</string>
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>755</string>
+				<string>751</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -16651,7 +17157,7 @@ https://www.ted.com/tedx/events/10999</string>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>977px</string>
+							<string>1013px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16681,7 +17187,7 @@ https://www.ted.com/tedx/events/10999</string>
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>933px</string>
+							<string>955px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16752,7 +17258,7 @@ https://www.ted.com/tedx/events/10999</string>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>-118px</string>
+							<string>-288px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16782,7 +17288,7 @@ https://www.ted.com/tedx/events/10999</string>
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>904px</string>
+							<string>920px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16910,6 +17416,251 @@ https://www.ted.com/tedx/events/10999</string>
 							<string>ClassType</string>
 							<key>objectValue</key>
 							<string>Image</string>
+						</dict>
+					</array>
+					<key>783</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleRight</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleTop</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthBottom</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ShowButtonEditor</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WordWrap</string>
+							<key>objectValue</key>
+							<string>break-word</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundColor</string>
+							<key>objectValue</key>
+							<string>#F0F0F0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthRight</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthTop</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleLeft</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FontSize</string>
+							<key>objectValue</key>
+							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>Button</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextColor</string>
+							<key>objectValue</key>
+							<string>#000000</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>InnerHTML</string>
+							<key>objectValue</key>
+							<string>Back</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>15px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorTop</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextAlign</string>
+							<key>objectValue</key>
+							<string>center</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>6px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>891px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>33</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>UserSelect</string>
+							<key>objectValue</key>
+							<string>none</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WhiteSpaceCollapsing</string>
+							<key>objectValue</key>
+							<string>preserve</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>6px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleBottom</string>
+							<key>objectValue</key>
+							<string>Solid</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingBottom</string>
+							<key>objectValue</key>
+							<string>6px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingRight</string>
+							<key>objectValue</key>
+							<string>6px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorLeft</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>90px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Button</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ActionHandlerOnMouseClick</string>
+							<key>objectValue</key>
+							<dict>
+								<key>actions</key>
+								<array>
+									<dict>
+										<key>duration</key>
+										<real>1.1000000000000001</real>
+										<key>sceneOid</key>
+										<string>117</string>
+										<key>transition</key>
+										<integer>1</integer>
+										<key>type</key>
+										<integer>1</integer>
+									</dict>
+								</array>
+							</dict>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>764px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorRight</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthLeft</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Cursor</string>
+							<key>objectValue</key>
+							<string>pointer</string>
 						</dict>
 					</array>
 				</dict>
