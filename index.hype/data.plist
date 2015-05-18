@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>479</string>
+	<string>1</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-05-18T03:42:54Z</date>
+	<date>2015-05-18T03:59:01Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -125,7 +125,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{271, 0}, {540, 211}}</string>
+													<string>{{271, 0}, {540, 210.9609375}}</string>
 													<key>identifier</key>
 													<string>timelineCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -148,7 +148,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{271, 212}, {540, 485}}</string>
+													<string>{{271, 211.9609375}, {540, 485.0390625}}</string>
 													<key>identifier</key>
 													<string>sceneEditorCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -213,7 +213,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>97</real>
 		<key>mainWindowFrame</key>
-		<string>85 59 1353 719 0 0 1280 778 </string>
+		<string>52 54 1353 719 0 0 1280 778 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -251,7 +251,7 @@
 	<key>mobileStatusBarStyle</key>
 	<integer>0</integer>
 	<key>oidCounter</key>
-	<integer>764</integer>
+	<integer>766</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -518,6 +518,18 @@
 				<key>resources</key>
 				<array>
 					<string>Wu, Sharon - Resume - May 2015.pdf</string>
+				</array>
+			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>Screen Shot 2015-05-17 at 3</string>
+				<key>oid</key>
+				<string>765</string>
+				<key>resources</key>
+				<array>
+					<string>Screen Shot 2015-05-17 at 3.06.24 PM.png</string>
 				</array>
 			</dict>
 		</array>
@@ -1527,6 +1539,55 @@
 				<key>type</key>
 				<string>FileResource</string>
 			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2015-05-17T19:06:30Z</date>
+				<key>fileSize</key>
+				<integer>74724</integer>
+				<key>md5</key>
+				<string>26FD1B28E351C34A92D815177C98D005</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/caitlin/Desktop/Screen Shot 2015-05-17 at 3.06.24 PM.png</string>
+				<key>resourceName</key>
+				<string>Screen Shot 2015-05-17 at 3.06.24 PM.png</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va7gCAAAAAAQQMAAAAIr7sRyQLtJmRh9YNWzxL5yp
+				IEjk3MOyoAJ0k9BwVVV0wAEAAAUAAAABAQAAVXNlcnMA
+				AAAHAAAAAQEAAGNhaXRsaW4ABwAAAAEBAABEZXNrdG9w
+				ACgAAAABAQAAU2NyZWVuIFNob3QgMjAxNS0wNS0xNyBh
+				dCAzLjA2LjI0IFBNLnBuZxAAAAABBgAABAAAABQAAAAk
+				AAAANAAAAAgAAAAEAwAAS2QCAAAAAAAIAAAABAMAAEU5
+				BgAAAAAACAAAAAQDAACdOQYAAAAAAAgAAAAEAwAA1oPz
+				AAAAAAAQAAAAAQYAAHwAAACMAAAAnAAAAKwAAAAIAAAA
+				AAQAAEG7CR41AAAAGAAAAAECAAABAAAAAAAAAA8AAAAA
+				AAAAAAAAAAAAAAAIAAAABAMAAAIAAAAAAAAABAAAAAMD
+				AAD2AQAADAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMA
+				AACAgT10AAAACAAAAAAEAABBuXP6xgAAACQAAAABAQAA
+				RDdFMkMwRDYtRTQ4MC0zRjg3LTlCN0MtNTU3RkU1NUUw
+				RTkyGAAAAAECAACBAAAAAQAIAO8XAAABAAgAAAAAAAAA
+				AAABAAAAAQEAAC8AAAAAAAAAAQUAAAQAAAADAwAAAAkA
+				KMAAAAD+////AQAAAAAAAAAPAAAABBAAAGQAAAAAAAAA
+				BRAAALwAAAAAAAAAEBAAAOQAAAAAAAAAQBAAANQAAAAA
+				AAAAAiAAAKABAAAAAAAAECAAACABAAAAAAAAESAAAFQB
+				AAAAAAAAEiAAADQBAAAAAAAAEyAAAEQBAAAAAAAAICAA
+				AIABAAAAAAAAMCAAAKwBAAAAAAAAAcAAAAQBAAAAAAAA
+				EcAAABQAAAAAAAAAEsAAABQBAAAAAAAAENAAALQBAAAA
+				AAAA
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
 		</array>
 	</dict>
 	<key>sceneContainers</key>
@@ -1548,13 +1609,13 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>0.89999997615814209</real>
+							<real>1.2333333492279053</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1401, 1250}</string>
+					<string>{2272, 2088}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1579,7 +1640,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>485</string>
 					<key>scrollViewOffset</key>
-					<string>{156, 0}</string>
+					<string>{28, 0}</string>
 					<key>userGuides</key>
 					<array/>
 				</dict>
@@ -1608,7 +1669,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1522, 1245}</string>
+					<string>{2232, 2284}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1633,7 +1694,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>15</string>
 					<key>scrollViewOffset</key>
-					<string>{151, 138}</string>
+					<string>{0, 0.21875}</string>
 					<key>userGuides</key>
 					<array/>
 				</dict>
@@ -1662,7 +1723,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1529, 1257}</string>
+					<string>{2252, 2084}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1687,7 +1748,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>93</string>
 					<key>scrollViewOffset</key>
-					<string>{39, 140}</string>
+					<string>{22, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1714,7 +1775,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1652, 1261}</string>
+					<string>{2364, 2092}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1739,7 +1800,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>100</string>
 					<key>scrollViewOffset</key>
-					<string>{60, 138}</string>
+					<string>{50, 38}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1766,7 +1827,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1543, 1253}</string>
+					<string>{2524, 2012}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1791,7 +1852,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>517</string>
 					<key>scrollViewOffset</key>
-					<string>{39, 0}</string>
+					<string>{0, 18}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1818,7 +1879,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1855, 1483}</string>
+					<string>{2464, 1960}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1843,7 +1904,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>502</string>
 					<key>scrollViewOffset</key>
-					<string>{37, 89}</string>
+					<string>{0, 5}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1870,7 +1931,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2055, 1279}</string>
+					<string>{2487, 2080}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1895,7 +1956,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>114</string>
 					<key>scrollViewOffset</key>
-					<string>{55, 0}</string>
+					<string>{0, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1922,7 +1983,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1493, 1714}</string>
+					<string>{2160, 2108}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1947,7 +2008,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>121</string>
 					<key>scrollViewOffset</key>
-					<string>{165, 154}</string>
+					<string>{0, 42}</string>
 				</dict>
 			</array>
 		</dict>
@@ -2130,7 +2191,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1309, 1245}</string>
+					<string>{2304, 2076}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2155,7 +2216,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>529</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 3}</string>
+					<string>{0, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -2182,7 +2243,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1331, 1245}</string>
+					<string>{2304, 1976}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2207,7 +2268,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>672</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 53}</string>
+					<string>{0, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -2286,7 +2347,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1302, 1245}</string>
+					<string>{2304, 2080}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2338,7 +2399,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1358, 1245}</string>
+					<string>{2220, 2056}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2363,7 +2424,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>749</string>
 					<key>scrollViewOffset</key>
-					<string>{69, 13}</string>
+					<string>{0, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -2390,9 +2451,7 @@
 			<key>documentIdentifier</key>
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>605</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -2885,7 +2944,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>387px</string>
+							<string>660px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2921,7 +2980,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>317px</string>
+							<string>307px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3033,6 +3092,123 @@
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
+						</dict>
+					</array>
+					<key>766</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>Screen Shot 2015-05-17 at 3.06.24 PM</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>602px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1.34076</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>284px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>449px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>449px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>602px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>156px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>765</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>35</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>InnerHTML</string>
+							<key>objectValue</key>
+							<string></string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
 						</dict>
 					</array>
 				</dict>
@@ -3946,7 +4122,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>733</string>
+				<string>537</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -4345,7 +4521,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>106px</string>
+							<string>131px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4369,19 +4545,19 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>709px</string>
+							<string>684px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>9px</string>
+							<string>33px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>PINGBLIP&lt;br&gt;&lt;br&gt;&lt;span style=""&gt;In February of 2015 Caitlin Stilin-Rooney joined the PingBlip team&amp;nbsp;&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-size: 36px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;as the Program Manager and Social Visionary to develop an e-banking platform to help remote communities generate comercial revenue.&lt;/span&gt;&lt;span style=""&gt;&amp;nbsp;She and her team members, Armin Medex, Madeline Padron and Samuel Cornielle were finalists in the Chivas&amp;nbsp;“The Venture” social entrepreneurship competetion "to create a network of banking partnerships and distribution centers that would allow remote and low-income communities to promote their businesses in major commercial centers, providng a cost effective means of&amp;nbsp;transferring&amp;nbsp;goods and money. The first stage they proposed will focus on Jimani, Santo Domingo, Puerto Príncipe and New York.” &amp;nbsp;We are hoping to be part of this pilot.&amp;nbsp;&lt;br&gt;&lt;br&gt;@pingblip &lt;/span&gt;&lt;font&gt;&lt;a href="https://www.theventure.com/global/en/news/finalists-announced-for-the-dominican-republic"&gt;https://www.theventure.com/global/en/news/finalists-announced-for-the-dominican-republic&lt;/a&gt;&lt;br&gt;&amp;nbsp;&lt;/font&gt;&lt;span id="docs-internal-guid-7410dd49-f1f0-52dc-529c-5bfa2cf82614"&gt;&lt;p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;/span&gt;</string>
+							<string>&lt;b&gt;PINGBLIP&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;span style=""&gt;In February of 2015 Caitlin Stilin-Rooney joined the PingBlip team&amp;nbsp;&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-size: 36px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;as the Program Manager and Social Visionary to develop an e-banking platform to help remote communities generate comercial revenue.&lt;/span&gt;&lt;span style=""&gt;&amp;nbsp;She and her team members, Armin Medex, Madeline Padron and Samuel Cornielle were finalists in the Chivas&amp;nbsp;“The Venture” social entrepreneurship competetion "to create a network of banking partnerships and distribution centers that would allow remote and low-income communities to promote their businesses in major commercial centers, providng a cost effective means of&amp;nbsp;transferring&amp;nbsp;goods and money. The first stage they proposed will focus on Jimani, Santo Domingo, Puerto Príncipe and New York.” &amp;nbsp;We are hoping to be part of this pilot as well as work on data collection &amp;nbsp;.&amp;nbsp;&lt;br&gt;&lt;br&gt;@pingblip &lt;/span&gt;&lt;font&gt;&lt;a href="https://www.theventure.com/global/en/news/finalists-announced-for-the-dominican-republic"&gt;https://www.theventure.com/global/en/news/finalists-announced-for-the-dominican-republic&lt;/a&gt;&lt;br&gt;&amp;nbsp;&lt;/font&gt;&lt;span id="docs-internal-guid-7410dd49-f1f0-52dc-529c-5bfa2cf82614"&gt;&lt;p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;/span&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4393,7 +4569,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>1108px</string>
+							<string>1117px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8142,7 +8318,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>12px</string>
+							<string>14px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8463,7 +8639,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>150px</string>
+							<string>152px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8541,7 +8717,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Social entrepreneurhsip&lt;br&gt;Finalists: &amp;nbsp;PINGBLIP&lt;br&gt;</string>
+							<string>Social entrepreneurship</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8798,7 +8974,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>397px</string>
+							<string>399px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9133,7 +9309,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>593px</string>
+							<string>595px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9468,7 +9644,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>792px</string>
+							<string>794px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9803,7 +9979,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>984px</string>
+							<string>986px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -12893,7 +13069,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 			<string>D98BC10E-7EE9-4B18-B6D9-475ACADCC15D-1244-000012110F8C3526</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>667</string>
+				<string>762</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -13097,7 +13273,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>155px</string>
+							<string>164px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -13127,7 +13303,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>42px</string>
+							<string>38px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -13472,7 +13648,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;div&gt;&lt;b&gt;What do you actually do?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Supervise weekly savings circles that allow women lacking access to formal banking to save and borrow money with people they trus ­Our weekly workshops focus on business growth, marketing, savings for legal documentation, healthcare and education&lt;/div&gt;&lt;div&gt;- Assist business owners to secure proper documentation and pay business taxes to the council of the town of Jimaní&lt;/div&gt;&lt;div&gt;- Provide small loans from $50­-500 for capable entrepreneurs who wish to build their business or create new ones&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Who are your partners?&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;In conjunction with Banco ADOPEM's &amp;nbsp;"community banking” product, we are assisting undocumented migrants a formal way to save, borrow and have access to workshops in the areas of financial literacy, entrepreneurship, health and education. We are also working with programers and software developers in both the Dominican Republic and the United States.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;How do you engage women?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Local workshops, cultural events and group activities, financial literacy training, etc.&amp;nbsp;&lt;/div&gt;&lt;div&gt;-hackathons&lt;/div&gt;&lt;div&gt;-entrepreneurial challenges&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;What are the issues with documentation?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Legal status is a powerful element that provide individuals with the ability to travel safely and earn more money, thereby lowering rates of poverty. Unlike the United States, the DR does not grant citizenship to children who are born to undocumented parents. Currently hundreds of thousands of individuals of Haitian descent are denied access to affordable health services, basic legal protections and the right to vote. In Jimaní all children are allowed to attend primary school however once they reach middle school, they are required to provide proper documentation. If documentation is not available their education ends. Our program helps families whose children are dependent on documentation to attend school.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We are serving 95 women and 130 of their dependents and believe that our model provides families a trusted place to save for this documentation. We have the potential of assisting 1,000 families to become integrated, visible and active members of Dominican society.&amp;nbsp;&lt;/div&gt;</string>
+							<string>&lt;div&gt;&lt;b&gt;What do you actually do?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Supervise weekly savings circles that allow women lacking access to formal banking to save and borrow money with people they trus t&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(Our weekly workshops focus on business growth, marketing, savings for legal documentation, healthcare and education)&lt;/div&gt;&lt;div&gt;- Assist business owners to secure proper documentation and pay business taxes to the council of the town of Jimaní&lt;/div&gt;&lt;div&gt;- Provide small loans from $50­-500 for capable entrepreneurs who wish to build their business or create new ones&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Who are your partners?&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;In conjunction with Banco ADOPEM's &amp;nbsp;"community banking” product, we are assisting undocumented migrants a formal way to save, borrow and have access to workshops in the areas of financial literacy, entrepreneurship, health and education. We are also working with programers and software developers in both the Dominican Republic and the United States.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;How do you engage women?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Local workshops, cultural events and group activities, financial literacy training, etc.&amp;nbsp;&lt;/div&gt;&lt;div&gt;-hackathons&lt;/div&gt;&lt;div&gt;-entrepreneurial challenges&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;What are the issues with documentation?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Legal status is a powerful element that provide individuals with the ability to travel safely and earn more money, thereby lowering rates of poverty. Unlike the United States, the DR does not grant citizenship to children who are born to undocumented parents. Currently hundreds of thousands of individuals of Haitian descent are denied access to affordable health services, basic legal protections and the right to vote. In Jimaní all children are allowed to attend primary school however once they reach middle school, they are required to provide proper documentation. If documentation is not available their education ends. Our program helps families whose children are dependent on documentation to attend school.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We are serving 95 women and 130 of their dependents and believe that our model provides families a trusted place to save for this documentation. We have the potential of assisting 1,000 families to become integrated, visible and active members of Dominican society.&amp;nbsp;&lt;/div&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14391,31 +14567,31 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
-							<string>1px</string>
+							<string>7px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>#99EB9C</string>
+							<string>#429CEB</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderWidthRight</string>
 							<key>objectValue</key>
-							<string>1px</string>
+							<string>7px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderWidthTop</string>
 							<key>objectValue</key>
-							<string>1px</string>
+							<string>7px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderColorBottom</string>
 							<key>objectValue</key>
-							<string>#8B9E74</string>
+							<string>#000000</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14457,7 +14633,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>BorderColorTop</string>
 							<key>objectValue</key>
-							<string>#8B9E74</string>
+							<string>#000000</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14475,7 +14651,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>138px</string>
+							<string>132px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14541,7 +14717,7 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>BorderColorLeft</string>
 							<key>objectValue</key>
-							<string>#8B9E74</string>
+							<string>#000000</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14579,19 +14755,19 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>-12px</string>
+							<string>-18px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderColorRight</string>
 							<key>objectValue</key>
-							<string>#8B9E74</string>
+							<string>#000000</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
-							<string>1px</string>
+							<string>7px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -18853,6 +19029,6 @@ financial savings.&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-style: 
 	<key>webAppCapable</key>
 	<integer>0</integer>
 	<key>zoomFactor</key>
-	<real>0.5</real>
+	<real>0.25</real>
 </dict>
 </plist>
