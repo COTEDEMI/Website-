@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>110</string>
+	<string>479</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-05-18T03:37:09Z</date>
+	<date>2015-05-18T03:42:13Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -213,7 +213,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>97</real>
 		<key>mainWindowFrame</key>
-		<string>15 59 1353 719 0 0 1280 778 </string>
+		<string>85 59 1353 719 0 0 1280 778 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
